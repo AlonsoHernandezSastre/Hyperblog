@@ -4,6 +4,15 @@ body{
     font-family: "Helvetica";
     font-size: 26px;
 }
+#cabecera
+{
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
+}
 #container
 {
     width: 70%;

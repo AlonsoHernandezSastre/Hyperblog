@@ -20,3 +20,8 @@ body{
     text-align: center;
     border: 1px solid #dddddd;
 }
+#tagline
+{
+    font-weight: normal;
+    font-size: 15px;
+}

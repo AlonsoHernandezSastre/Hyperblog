@@ -1,5 +1,5 @@
 body{
-    color: #333333;
+    color: darkslategrey;
     text-align: center;
     font-family: "Helvetica";
     font-size: 26px;
@@ -23,5 +23,5 @@ body{
 #tagline
 {
     font-weight: normal;
-    font-size: 18px;
+    font-size: 15px;
 }
